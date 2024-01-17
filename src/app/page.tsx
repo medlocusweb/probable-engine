@@ -7,6 +7,7 @@ export default function Home() {
      <p>yeah again this is 2nd time me</p>
      <p>yeah again this is 3nd time me from mrelocus</p>
      <p>yeah again this is 4nd time me from 2mdajid</p>
+     <p>yeah again this is 5nd time me from medlocus</p>
     </main>
   )
 }
